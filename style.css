@@ -1,0 +1,98 @@
+h1 {
+    font-weight: 600;
+}
+
+p {
+    color: #bab9ba;
+}
+
+h5 {
+    padding-top: 20px;
+    padding-left: 10px;
+    color: black;
+}
+
+
+#call-now {
+    color: red;
+    font-weight: 600;
+    padding-top: 15px;
+}
+
+
+.btn-grad {
+    background-image: linear-gradient(to bottom, #fe8c00 30%, #fe8c00  0%, #f83600  100% )
+}
+
+.btn-grad {
+   margin: 10px;
+   padding: 10px 10px;
+   text-align: center;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color:#bab9ba;            
+   box-shadow: 0 0 20px #eee;
+   border-radius: 25px;
+   display: block;
+   font-weight: bold;
+   border: 5px solid #eee;
+ }
+
+  .btn-grad:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ } 
+
+ 
+.btn-grad2 {
+     background-image: linear-gradient(to bottom,  #eef2f3  60%, #eef2f3 20%, #cfd6db  100%)
+    }
+
+.btn-grad2 {
+    margin: 10px;
+    padding: 10px 10px;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: #bab9ba;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 25px;
+    display: block;
+    font-weight: bold;
+    border: 5px solid #eee;
+  }
+
+.btn-grad2:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+.section-1 img{
+    height: 99%;
+    width: 99%;
+}
+
+
+
+
+
+.section-3 #left p {
+    color: orange;
+}
+
+#section-4 img {
+    height: 99%;
+    width: 99%;
+    border: 5px solid #eee;
+}
+
+footer {
+    background: rgba(0, 0, 0, 0.9);
+    padding: 10px 10px 10px 10px;
+}
+
+footer h3 {
+    color: white;
+}
